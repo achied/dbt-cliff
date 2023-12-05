@@ -1,0 +1,5 @@
+packages:
+  - git: "https://github.com/achied/dbt-tools.git"
+    subdirectory: tools
+    revision: main
+    warn-unpinned: false
